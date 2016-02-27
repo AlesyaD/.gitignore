@@ -8,6 +8,7 @@
         color: #ffffff;
         font-size: 36pt;
         text-decoration: none;
+        text-align:  center;
     }
 
     .content {
@@ -15,7 +16,7 @@
     }
 
     h1, h2, h3, h4 {
-        font-family: 'Lobster', cursive;
+        font-family: 'Arial', bold;
     }
 
     .date {
@@ -32,10 +33,11 @@
     }
 
     .top-menu, .top-menu:hover, .top-menu:visited {
-        color: #ffffff;
+        color: #828282;
         float: right;
         font-size: 26pt;
         margin-right: 20px;
+        margin-top: 100;
     }
 
     .post {
